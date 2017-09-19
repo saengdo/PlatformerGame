@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonSimpleNetGame14", "PhotonSimpleNetGame14.csproj", "{80EC1E98-9408-A0F1-E8CC-67A240CFE7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonSimpleNetGame14.Plugins", "PhotonSimpleNetGame14.Plugins.csproj", "{082AA26E-7EC1-E943-29C8-7409D690084D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonSimpleNetGame14.Editor", "PhotonSimpleNetGame14.Editor.csproj", "{BC2AD456-B4C8-F71C-E2B9-4A8E82BD197F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EC1E98-9408-A0F1-E8CC-67A240CFE7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EC1E98-9408-A0F1-E8CC-67A240CFE7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EC1E98-9408-A0F1-E8CC-67A240CFE7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EC1E98-9408-A0F1-E8CC-67A240CFE7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082AA26E-7EC1-E943-29C8-7409D690084D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082AA26E-7EC1-E943-29C8-7409D690084D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082AA26E-7EC1-E943-29C8-7409D690084D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082AA26E-7EC1-E943-29C8-7409D690084D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2AD456-B4C8-F71C-E2B9-4A8E82BD197F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2AD456-B4C8-F71C-E2B9-4A8E82BD197F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2AD456-B4C8-F71C-E2B9-4A8E82BD197F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2AD456-B4C8-F71C-E2B9-4A8E82BD197F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
